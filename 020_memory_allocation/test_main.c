@@ -1,5 +1,5 @@
 #include "main.h"
-#include "unity.h"
+#include "../unity.h"
 
 void setUp(){}
 void tearDown(){}
