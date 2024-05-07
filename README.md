@@ -10,7 +10,7 @@ Copy the folder `hello_world` to create a new project
 # Test
 ```
 # this is an example to test the hello world
-gcc 001_hello_world/test_hello_world.c 001_hello_world/hello_world.c ./unity/src/unity.c -o TestRunner; ./TestRunner
+gcc 001_hello_world/test_hello_world.c 001_hello_world/hello_world.c ../unity/src/unity.c -o TestRunner; ./TestRunner
 ```
 ## References:
 - https://www.throwtheswitch.org/unity
